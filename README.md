@@ -1,5 +1,9 @@
 
+## Setup
 
+```sh
+npm install
+```
 
 ## Development mode
 
